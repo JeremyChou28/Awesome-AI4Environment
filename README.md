@@ -8,7 +8,7 @@
 # Awesome-AI4Environment
 
 This repository collects papers related to the application of AI in the study of environmental pollutants, focusing primarily on the following scenarios:
-**Molecular Annotation for Emerging Contaminants**，**Pollutant Database**，**Property Prediction of Pollutants**.
+**Molecular Annotation for Emerging Contaminants**，**Pollutant Database/Benchmark**，**Property Prediction of Pollutants**.
 
 ## Molecular Annotation for Emerging Contaminants
 
@@ -32,9 +32,10 @@ This repository collects papers related to the application of AI in the study of
 - Searching molecular structure databases with tandem mass spectra using CSI:FingerID. PNAS, 2015. [paper](Searching molecular structure databases with tandem mass spectra using CSI:FingerID)
 - Mass spectral molecular networking of living microbial colonies. PNAS, 2012. [paper](https://www.pnas.org/doi/10.1073/pnas.1203689109?gad_source=1&gclid=Cj0KCQiAvbm7BhC5ARIsAFjwNHvPZ3m6Euux1bMw3hL7Go0TbrII1VnBw70x2bfS7CDSdJcp9unQef0aAjQKEALw_wcB)
 
-## Pollutant Database
+## Pollutant Database/Benchmark
 
 - RepoRT: a comprehensive repository for small molecule retention times. Nature Methods, 2024. [paper](https://www.nature.com/articles/s41592-023-02143-z), [code](https://github.com/michaelwitting/RepoRT)
+- MassSpecGym: A benchmark for the discovery and identification of molecules. NeurIPS, 2024. [paper](https://arxiv.org/pdf/2410.23326), [code](https://github.com/pluskal-lab/MassSpecGym)
 
 ## Property Prediction of Pollutants
 
