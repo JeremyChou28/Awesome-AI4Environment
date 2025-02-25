@@ -12,11 +12,14 @@ This repository collects papers related to the application of AI in the study of
 
 ## Molecular Annotation for Emerging Contaminants
 
+- DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra. *Arxiv, 2025.* [paper](https://arxiv.org/pdf/2502.09571)
+- MADGEN - Mass-Spec attends to De Novo Molecular generation. *ICLR, 2025*. [paper](https://openreview.net/forum?id=78tc3EiUrN)
 - Tandem mass spectrum prediction for small molecules using graph transformers. *Nature Machine Intelligence, 2024*. [paper](https://www.nature.com/articles/s42256-024-00816-8)
 - Machine learning–enhanced molecular network reveals global exposure to hundreds of unknown PFAS. *Science Advances, 2024*. [paper](https://www.science.org/doi/10.1126/sciadv.adn1039)
 - Efficiently predicting high resolution mass spectra with graph neural networks. *ICML, 2023*. [paper](https://proceedings.mlr.press/v202/murphy23a/murphy23a.pdf)
 - Prefix-Tree Decoding for Predicting Mass Spectra from Molecules. *NeurIPS, 2023*. [paper](https://arxiv.org/pdf/2303.06470)
 - Multi-scale Sinusoidal Embeddings Enable Learning on High Resolution Mass Spectrometry Data. *ICLR workshop, 2023*. [paper](https://arxiv.org/abs/2207.02980)
+- An end-to-end deep learning framework for translating mass spectra to de-novo molecules. *Nature communications chemistry, 2023.* [paper](https://www.nature.com/articles/s42004-023-00932-3)
 - Annotating metabolite mass spectra with domain-inspired chemical formula transformers. *Nature Machine Intelligence, 2023*. [paper](https://www.nature.com/articles/s42256-023-00708-3)
 - Annotation of natural product compound families using molecular networking topology and structural similarity fingerprinting. *Nature Communications, 2023*. [paper](https://www.nature.com/articles/s42256-023-00708-3)
 - Joint structural annotation of small molecules using liquid chromatography retention order and tandem mass spectrometry data. *Nature Machine Intelligence, 2022*. [paper](https://www.nature.com/articles/s41592-020-0933-6)
@@ -26,9 +29,12 @@ This repository collects papers related to the application of AI in the study of
 - Systematic classification of unknown metabolites using high-resolution fragmentation mass spectra. *Nature Biotechnology, 2021*. [paper](https://www.nature.com/articles/s41587-020-0740-8)
 - Database-independent molecular formula annotation using Gibbs sampling through ZODIAC. *Nature Machine Intelligence, 2020*. [paper](https://www.nature.com/articles/s42256-020-00234-6)
 - Feature-based molecular networking in the GNPS analysis environment. *Nature Methods, 2020*. [paper](https://www.nature.com/articles/s41592-020-0933-6)
+- Pathway-Activity Likelihood Analysis and Metabolite Annotation for Untargeted Metabolomics using Probabilistic Modeling. *Metabolites, 2020.* [paper](https://arxiv.org/pdf/1912.05753)
 - Deep imitation learning for molecular inverse problems. *ICML, 2019*. [paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/b0bef4c9a6e50d43880191492d4fc827-Paper.pdf)
+- Metabolic reaction network-based recursive metabolite annotation for untargeted metabolomics. *Nature communications, 2019.* [paper](https://www.nature.com/articles/s41467-019-09550-x)
 - SIRIUS 4: a rapid tool for turning tandem mass spectra into metabolite structure information. *Nature Methods, 2019*. [paper](https://www.nature.com/articles/s41592-019-0344-8)
 - Natural products targeting strategies involving molecular networking: different manners, one goal. *Natural Product Reports, 2019*. [paper](https://pubs.rsc.org/en/content/articlelanding/2019/np/c9np00006b)
+- MetaboRank: network-based recommendation system to interpret and enrich metabolomics results. *Bioinformatics, 2018.* [paper](https://academic.oup.com/bioinformatics/article/35/2/274/5050022)
 - Searching molecular structure databases with tandem mass spectra using CSI:FingerID. *PNAS, 2015*. [paper](https://www.pnas.org/doi/10.1073/pnas.1509788112)
 - Mass spectral molecular networking of living microbial colonies. *PNAS, 2012*. [paper](https://www.pnas.org/doi/10.1073/pnas.1203689109?gad_source=1&gclid=Cj0KCQiAvbm7BhC5ARIsAFjwNHvPZ3m6Euux1bMw3hL7Go0TbrII1VnBw70x2bfS7CDSdJcp9unQef0aAjQKEALw_wcB)
 
